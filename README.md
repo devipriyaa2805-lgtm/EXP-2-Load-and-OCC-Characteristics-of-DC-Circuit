@@ -11,12 +11,11 @@ To conduct the open-circuit and load tests on a D.C. shunt generator and obtain 
 
 | Sl. No. | Apparatus | Range | Type | Quantity |
 |---|---|---|---|---|
-| 1 | Voltmeter | 0–300 V | MC | 1 |
-| 2 | Ammeter | 0–2.5 A | MC | 1 |
-| 3 | Ammeter | 0–5 A | MC | 1 |
+| 1 | Voltmeter | 1–230 V | As shown in simulation | 1 |
+| 2 | Ammeter | 1–20 A | As shown in simulation | 1 |
+| 3 | Ammeter | 0–20 A | As shown in simulation | 1 |
 | 4 | Rheostat | As required | Wire-wound | 1 |
-| 5 | Rheostat | As required | Wire-wound | 1 |
-| 6 | Connecting wires | — | — | As required |
+| 5 | Connecting wires | — | — | As required |
 
 ## FUSE RATING CALCULATION
 
@@ -66,21 +65,21 @@ Fuse rating = 125% of the rated full-load current.
 
 ### Open-Circuit Test
 
-<img width="322" height="315" alt="Magnetic_Table" src="https://github.com/user-attachments/assets/6b7f585f-f70a-4b15-a434-4085863d35bc" />
+<img width="322" height="315" alt="Magnetic_Table" src="https://github.com/user-attachments/assets/4267f453-61a3-4049-8ceb-c463cd25113f" />
 
 ### Load Test
 
-<img width="488" height="470" alt="Load_Table" src="https://github.com/user-attachments/assets/a08492e2-8fe6-460d-8a25-8148aa3be6bc" />
+<img width="1436" height="1096" alt="Load_Table" src="https://github.com/user-attachments/assets/ddfdfd43-ca19-4af9-9b4b-c2b53a9f34e1" />
 
 ## MODEL GRAPH
 
 ### Open-Circuit Test
 
-<img width="807" height="343" alt="Magnetic-Graph" src="https://github.com/user-attachments/assets/678b05b3-ab80-461f-aa5b-1a0b9195a91f" />
+<img width="648" height="310" alt="Magnetic-Graph" src="https://github.com/user-attachments/assets/850016c6-d8b2-4dbb-b7b9-3dfff4840e39" />
 
 ### Load Test
 
-<img width="976" height="333" alt="Load_Graph" src="https://github.com/user-attachments/assets/32d371b5-ae87-418e-9b6a-99294202549e" />
+<img width="967" height="333" alt="Load_Graph" src="https://github.com/user-attachments/assets/5c5be2df-15e6-4ef5-8009-741c0258e62c" />
 
 ## CALCULATION
 
