@@ -55,7 +55,7 @@ Fuse rating = 125% of the rated full-load current.
 
 ### Open-Circuit Test
 
-<img width="1000" height="568" alt="Magnetic_Circuit" src="https://github.com/user-attachments/assets/76c2c8aa-5ec1-455b-a46a-142687547564" />
+<img width="896" height="523" alt="Magnetic_Circuit" src="https://github.com/user-attachments/assets/77759b1a-62cc-478d-a048-860b16abdd09" />
 
 ### Load Test
 
