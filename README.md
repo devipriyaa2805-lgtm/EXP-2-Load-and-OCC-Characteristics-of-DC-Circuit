@@ -52,23 +52,39 @@ Fuse rating = 125% of the rated full-load current.
 6. Return the load and rheostats to their initial positions after completing the observations.
 7. Switch off the motor.
 
+## CIRCUIT DIAGRAM
+
+### Open-Circuit Test
+
+<img width="1000" height="568" alt="Magnetic_Circuit" src="https://github.com/user-attachments/assets/76c2c8aa-5ec1-455b-a46a-142687547564" />
+
+### Load Test
+
+<img width="1182" height="575" alt="Load_Circuit" src="https://github.com/user-attachments/assets/1dc5f2a1-29ed-4671-b5b0-979c9c87fb4b" />
+
 ## TABULATION
 
 ### Open-Circuit Test
 
-Record the field current and corresponding open-circuit voltage.
+<img width="322" height="315" alt="Magnetic_Table" src="https://github.com/user-attachments/assets/6b7f585f-f70a-4b15-a434-4085863d35bc" />
 
 ### Load Test
 
-Record the load current and corresponding terminal voltage.
+<img width="488" height="470" alt="Load_Table" src="https://github.com/user-attachments/assets/a08492e2-8fe6-460d-8a25-8148aa3be6bc" />
 
 ## MODEL GRAPH
 
-Include the open-circuit characteristics and load characteristics graphs based on the recorded readings.
+### Open-Circuit Test
+
+<img width="807" height="343" alt="Magnetic-Graph" src="https://github.com/user-attachments/assets/678b05b3-ab80-461f-aa5b-1a0b9195a91f" />
+
+### Load Test
+
+<img width="976" height="333" alt="Load_Graph" src="https://github.com/user-attachments/assets/32d371b5-ae87-418e-9b6a-99294202549e" />
 
 ## CALCULATION
 
-Include the calculations using the actual experimental readings, if required.
+
 
 ## RESULT
 
