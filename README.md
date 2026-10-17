@@ -84,6 +84,59 @@ Fuse rating = 125% of the rated full-load current.
 ## CALCULATION
 
 
+## CALCULATION
+
+### 1. Open-Circuit Test
+
+The open-circuit voltage increases with the field current.
+
+From the observation table:
+
+- When current = 0.16 A, voltage = 115 V.
+- When current = 0.20 A, voltage = 126 V.
+- When current = 0.30 A, voltage = 142 V.
+
+### 2. Load Test
+
+The voltage drop is calculated using:
+
+Voltage Drop = No-load voltage - Load voltage
+
+Taking the first recorded voltage as the reference:
+
+No-load reference voltage = 220 V
+
+**Calculation 1:**
+
+At load current = 2.8 A,
+
+Voltage Drop = 220 - 212
+
+Voltage Drop = 8 V
+
+**Calculation 2:**
+
+At load current = 7 A,
+
+Voltage Drop = 220 - 195
+
+Voltage Drop = 25 V
+
+**Calculation 3:**
+
+At load current = 12.7 A,
+
+Voltage Drop = 220 - 176
+
+Voltage Drop = 44 V
+
+### 3. Percentage Voltage Drop
+
+Percentage Voltage Drop = (Voltage Drop / Reference Voltage) × 100
+
+= (44 / 220) × 100
+
+= 20%
 
 ## RESULT
 
