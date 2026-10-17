@@ -83,9 +83,6 @@ Fuse rating = 125% of the rated full-load current.
 
 ## CALCULATION
 
-
-## CALCULATION
-
 ### 1. Open-Circuit Test
 
 The open-circuit voltage increases with the field current.
