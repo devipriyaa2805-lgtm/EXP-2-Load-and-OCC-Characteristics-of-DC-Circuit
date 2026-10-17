@@ -137,7 +137,7 @@ Percentage Voltage Drop = (Voltage Drop / Reference Voltage) × 100
 
 fThe OCC curve is plotted with field current (If) on the X-axis and open-circuit voltage (VOC) on the Y-axis at constant speed.
 
-# RESULT
+## RESULT
 
 The open-circuit and load characteristics of the D.C. shunt generator were studied using the experiment.
 
